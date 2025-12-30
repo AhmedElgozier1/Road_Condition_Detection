@@ -70,6 +70,16 @@ A graphical user interface was developed using **Gradio** to demonstrate the mod
 ### 🔗 Live Demo
 https://5e3a0232fe28e0df5d.gradio.live 
 
+## Dataset
+The dataset used in this project is not included in this GitHub repository due to its large size.
+However, the full dataset structure and data loading code are provided.
+The dataset can be made available upon request.
+
+## Model Weights
+The trained model file (.pth) is not uploaded to this repository due to size limitations.
+The model weights are available upon request.
+
+
 📸 GUI screenshots are available in the `screenshots/` folder.
 
 > **Note:**  
@@ -103,3 +113,4 @@ python app.py
 
 This project demonstrates the application of Deep Learning techniques to solve a real-world problem related to road safety.  
 It integrates model training, inference, and a user-friendly GUI, making it suitable for both academic and practical use.
+
